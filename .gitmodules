@@ -1,0 +1,3 @@
+[submodule "Sub-Repo"]
+	path = Sub-Repo
+	url = https://github.com/NareshSamannan/Sub-Repo.git
